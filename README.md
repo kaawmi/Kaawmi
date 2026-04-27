@@ -4,17 +4,17 @@ Full-Stack Developer, DevOps, Designer & Music Producer
 I'm a creator who merges engineering, design, and emotion into every product I build.
 
 
-### languages
+* languages
 `JavaScript`,`TypeScript`,`Python`,`SQL`,`C/C++`,`Rust`,`Go`,`Java`,`Bash`
-### Frontend
+* Frontend
 `React`, `Next.js`, `Vite`, `Tailwind CSS`, `GSAP`,
-### Backend 
+* Backend 
 `Node.js`, `Python`, `Express`, `Next.js`, `Fast API`
-### DBs
+* DBs
 `PostgreSQL`, `MongoDB`, `SQLite`, `Redis`,
-### DevOps
+* DevOps
 `Docker`, `GitHub Actions`, `GitLab CI/CD`, `Git`, `Branching Strategies`, `Nginx`, `SSL/TLS Managemen`, `Reverse Proxy Security`,
-### OS
+* OS
 `Linux`, `macOS`, `Windows`
-### Blockchain & Web3
+* Blockchain & Web3
 `TON`, `TRON`, `Ethereum (EVM)`, `Solana`
