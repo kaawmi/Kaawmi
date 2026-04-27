@@ -1,9 +1,9 @@
 ## Hi there 👋
-* Kamran Haddadian
-* Full-Stack Developer, DevOps, Designer & Music Producer
+Kamran Haddadian
+Full-Stack Developer, DevOps, Designer & Music Producer
 * I'm a creator who merges engineering, design, and emotion into every product I build.
 
-
+----->
 * languages
 `JavaScript`, `TypeScript`, `Python`, `SQL`, `C/C++`, `Rust`, `Go`, `Java`, `Bash`
 * Frontend
