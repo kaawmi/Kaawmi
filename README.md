@@ -5,7 +5,7 @@ I'm a creator who merges engineering, design, and emotion into every product I b
 
 
 * languages
-`JavaScript`,`TypeScript`,`Python`,`SQL`,`C/C++`,`Rust`,`Go`,`Java`,`Bash`
+`JavaScript`, `TypeScript`, `Python`, `SQL`, `C/C++`, `Rust`, `Go`, `Java`, `Bash`
 * Frontend
 `React`, `Next.js`, `Vite`, `Tailwind CSS`, `GSAP`,
 * Backend 
