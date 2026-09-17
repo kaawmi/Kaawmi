@@ -34,7 +34,7 @@
 
 [![Personal GitHub](https://img.shields.io/badge/GitHub-Personal-4183C4?style=for-the-badge\&logo=github)](https://github.com/kaawmi)
 [![Twitter](https://img.shields.io/badge/Twitter-kaawmy-000000?style=for-the-badge\&logo=x)](https://x.com/kaawmy)
-[![Telegram](https://img.shields.io/badge/Telegram-kaawmy-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/kaawmi)
+[![Telegram](https://img.shields.io/badge/Telegram-kaawmi-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/kaawmi)
 [![Instagram](https://img.shields.io/badge/Instagram-kaawmy-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/kaawmy)
 
 </div>
