@@ -11,20 +11,21 @@
 </div>
 <br>
 
-Languages
-`JavaScript` · `TypeScript` · `Python` · `SQL` · `C/C++` · `Rust` · `Go` · `Java` · `Bash`
-Frontend
-`React` · `Next.js` · `Vite` · `Tailwind CSS` · `GSAP`
-Backend
-`Node.js` · `Python` · `Express` · `Next.js` · `FastAPI`
-Databases
-`PostgreSQL` · `MongoDB` · `SQLite` · `Redis`
-DevOps & Infrastructure
-`Docker` · `GitHub Actions` · `GitLab CI/CD` · `Git` · `Branching Strategies` · `Nginx` · `SSL/TLS` · `Reverse Proxy` · `Linux Server Security`
-Operating Systems
-`Linux` · `macOS` · `Windows`
-Blockchain & Web3
-`TON` · `TRON` · `Ethereum (EVM)` · `Solana`
+----->
+* languages
+`JavaScript`, `TypeScript`, `Python`, `SQL`, `C/C++`, `Rust`, `Go`, `Java`, `Bash`
+* Frontend
+`React`, `Next.js`, `Vite`, `Tailwind CSS`, `GSAP`,
+* Backend 
+`Node.js`, `Python`, `Express`, `Next.js`, `Fast API`
+* DBs
+`PostgreSQL`, `MongoDB`, `SQLite`, `Redis`,
+* DevOps
+`Docker`, `GitHub Actions`, `GitLab CI/CD`, `Git`, `Branching Strategies`, `Nginx`, `SSL/TLS Managemen`, `Reverse Proxy Security`,
+* OS
+`Linux`, `macOS`, `Windows`
+* Blockchain & Web3
+`TON`, `TRON`, `Ethereum (EVM)`, `Solana`
 
 <br>
 
