@@ -9,41 +9,25 @@
 <div align="center">
   I’m a creator who merges engineering, design, and emotion into every product I build.
 </div>
-
 <br>
 
-## Languages
-
+Languages
 `JavaScript` · `TypeScript` · `Python` · `SQL` · `C/C++` · `Rust` · `Go` · `Java` · `Bash`
-
-## Frontend
-
+Frontend
 `React` · `Next.js` · `Vite` · `Tailwind CSS` · `GSAP`
-
-## Backend
-
+Backend
 `Node.js` · `Python` · `Express` · `Next.js` · `FastAPI`
-
-## Databases
-
+Databases
 `PostgreSQL` · `MongoDB` · `SQLite` · `Redis`
-
-## DevOps & Infrastructure
-
+DevOps & Infrastructure
 `Docker` · `GitHub Actions` · `GitLab CI/CD` · `Git` · `Branching Strategies` · `Nginx` · `SSL/TLS` · `Reverse Proxy` · `Linux Server Security`
-
-## Operating Systems
-
+Operating Systems
 `Linux` · `macOS` · `Windows`
-
-## Blockchain & Web3
-
+Blockchain & Web3
 `TON` · `TRON` · `Ethereum (EVM)` · `Solana`
 
 ---
-
-## My Toolbox
-
+My Toolbox
 <p align="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
