@@ -33,7 +33,7 @@
 <div align="center">
   
 [![Personal GitHub](https://img.shields.io/badge/GitHub-Personal-4183C4?style=for-the-badge&logo=github)](https://github.com/kaawmi)
-[![Twitter](https://img.shields.io/badge/Twitter-0xmorteza-000000?style=for-the-badge&logo=x)](https://x.com/kaawmy)
+[![Twitter](https://img.shields.io/badge/Twitter-kaawmy-000000?style=for-the-badge&logo=x)](https://x.com/kaawmy)
 
 </div>
 
