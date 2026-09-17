@@ -11,7 +11,6 @@
 </div>
 <br>
 
------>
 * languages
 `JavaScript`, `TypeScript`, `Python`, `SQL`, `C/C++`, `Rust`, `Go`, `Java`, `Bash`
 * Frontend
