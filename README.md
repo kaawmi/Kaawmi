@@ -1,7 +1,7 @@
 # <div align="center">KAMRAN HADDADIAN</div>
 
-Full-Stack Developer, DevOps, Designer & Music Producer  <br> 
-<div align="center">**I'm a creator who merges engineering, design, and emotion into every product I build.**</div>
+<div align="center">Full-Stack Developer, DevOps, Designer & Music Producer</div>  <br> 
+<div align="center">I'm a creator who merges engineering, design, and emotion into every product I build.</div>
 
 ----->
 * languages
