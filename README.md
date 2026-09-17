@@ -26,6 +26,27 @@ Operating Systems
 Blockchain & Web3
 `TON` · `TRON` · `Ethereum (EVM)` · `Solana`
 
+<br>
+
+## <div align="center">🌐 CONNECT</div>
+
+<div align="center">
+  
+[![Personal GitHub](https://img.shields.io/badge/GitHub-Personal-4183C4?style=for-the-badge&logo=github)](https://github.com/mortezashojaei)
+[![Company GitHub](https://img.shields.io/badge/GitHub-txFusion-4183C4?style=for-the-badge&logo=github)](https://github.com/mshojaei-txfusion)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Morteza_Shojaei-0077B5?style=for-the-badge&logo=linkedin)](https://tr.linkedin.com/in/mortezashojaei)
+[![Twitter](https://img.shields.io/badge/Twitter-0xmorteza-000000?style=for-the-badge&logo=x)](https://x.com/0xmorteza)
+
+</div>
+
+---
+
+<div align="center">
+  
+> *"Decentralization is not just a technical architecture; it's a commitment to building systems where trust is implicit and freedom is explicit."*
+
+</div>
+
 ---
 My Toolbox
 <p align="left">
